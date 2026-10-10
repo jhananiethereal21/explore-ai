@@ -159,3 +159,4 @@ explore-ai/
 
 ## ⚖️ Hackathon MVP Notice
 This project is an MVP demonstration created for hackathon evaluation. Sample costs, schedules, and contributor opinions are illustrative and should be verified against official regional authorities.
+# explore-ai
